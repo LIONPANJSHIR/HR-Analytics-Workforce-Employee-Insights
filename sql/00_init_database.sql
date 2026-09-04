@@ -1,0 +1,17 @@
+-- CREATE DATABASE Master ;
+-- GO
+USE Master ;
+
+DROP DATABASE IF EXISTS HR_Analytics ;
+GO 
+CREATE DATABASE HR_Analytics ;
+GO
+
+USE HR_Analytics ;
+GO
+
+CREATE SCHEMA RAW ;
+GO 
+
+CREATE SCHEMA PROCESSED ;
+GO 
