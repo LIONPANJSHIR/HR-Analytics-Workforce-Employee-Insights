@@ -1,0 +1,55 @@
+01 — Workforce Overview
+     Effectif
+     Départs
+     Attrition Rate
+     Revenu
+     Ancienneté
+     Structure organisationnelle
+
+02 — Attrition Segmentation
+     Département
+     Métier
+     Job Level
+     Âge
+     Genre
+     Statut marital
+
+03 — Working Conditions
+     OverTime
+     BusinessTravel
+     DistanceFromHome
+
+04 — Satisfaction & Engagement
+     JobSatisfaction
+     EnvironmentSatisfaction
+     WorkLifeBalance
+     JobInvolvement
+     RelationshipSatisfaction
+
+05 — Compensation
+     MonthlyIncome
+     IncomeBand
+     SalaryHike
+     StockOptionLevel
+
+06 — Career & Tenure
+     YearsAtCompany
+     YearsInCurrentRole
+     YearsSinceLastPromotion
+     YearsWithCurrManager
+     Training
+
+07 — Multi-factor Analysis
+     OverTime × JobRole
+     OverTime × Satisfaction
+     Tenure × OverTime
+     Income × JobLevel
+     Satisfaction × WorkLifeBalance
+
+08 — Key Findings
+     Principaux groupes associés à une forte attrition
+
+09 — HR Recommendations
+     Actions prioritaires
+     Populations concernées
+     KPI à suivre
